@@ -1,13 +1,13 @@
-#Tutorial
+# Tutorial
 
 
-##SSH
+## SSH
 Создаём ssh при помощи ssh-keygen
 
 
-##GitHub
+## GitHub
 Заливаем публичный(!) ключ на сайт
 
 
-##Repository
+## Repository
 Клонируем репозитории при помощи соответствующих команд
